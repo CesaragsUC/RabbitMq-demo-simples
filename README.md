@@ -5,4 +5,5 @@ Nesse projeto contém :
 - Implementação simples
 - Implementação intermediária
 > Está sendo utilizado EF InMemrory para facilitar as coisas
+# 😊😊😊😊
 

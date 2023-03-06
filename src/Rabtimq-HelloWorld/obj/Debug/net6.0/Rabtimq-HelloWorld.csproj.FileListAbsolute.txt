@@ -1,0 +1,41 @@
+F:\Projetos ASP.NET\Rabitmq Pratica\Demos\src\Rabtimq-HelloWorld\obj\Debug\net6.0\Rabtimq-HelloWorld.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\Rabitmq Pratica\Demos\src\Rabtimq-HelloWorld\obj\Debug\net6.0\Rabtimq-HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\Rabitmq Pratica\Demos\src\Rabtimq-HelloWorld\obj\Debug\net6.0\Rabtimq-HelloWorld.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\Rabitmq Pratica\Demos\src\Rabtimq-HelloWorld\obj\Debug\net6.0\Rabtimq-HelloWorld.AssemblyInfo.cs
+F:\Projetos ASP.NET\Rabitmq Pratica\Demos\src\Rabtimq-HelloWorld\obj\Debug\net6.0\Rabtimq-HelloWorld.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabtimq-HelloWorld\obj\Debug\net6.0\Rabtimq-HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabtimq-HelloWorld\obj\Debug\net6.0\Rabtimq-HelloWorld.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabtimq-HelloWorld\obj\Debug\net6.0\Rabtimq-HelloWorld.AssemblyInfo.cs
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabtimq-HelloWorld\obj\Debug\net6.0\Rabtimq-HelloWorld.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabtimq-HelloWorld\bin\Debug\net6.0\Rabtimq-HelloWorld.exe
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabtimq-HelloWorld\bin\Debug\net6.0\Rabtimq-HelloWorld.deps.json
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabtimq-HelloWorld\bin\Debug\net6.0\Rabtimq-HelloWorld.runtimeconfig.json
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabtimq-HelloWorld\bin\Debug\net6.0\Rabtimq-HelloWorld.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabtimq-HelloWorld\bin\Debug\net6.0\Rabtimq-HelloWorld.pdb
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabtimq-HelloWorld\bin\Debug\net6.0\RabbitMQ.Client.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabtimq-HelloWorld\obj\Debug\net6.0\Rabtimq-HelloWorld.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabtimq-HelloWorld\obj\Debug\net6.0\Rabtimq-HelloWorld.csproj.CopyComplete
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabtimq-HelloWorld\obj\Debug\net6.0\Rabtimq-HelloWorld.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabtimq-HelloWorld\obj\Debug\net6.0\refint\Rabtimq-HelloWorld.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabtimq-HelloWorld\obj\Debug\net6.0\Rabtimq-HelloWorld.pdb
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabtimq-HelloWorld\obj\Debug\net6.0\Rabtimq-HelloWorld.genruntimeconfig.cache
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabtimq-HelloWorld\obj\Debug\net6.0\ref\Rabtimq-HelloWorld.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabtimq-HelloWorld\bin\Debug\net6.0\Bogus.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabtimq-HelloWorld\bin\Debug\net6.0\Rabtimq-HelloWorld.exe
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabtimq-HelloWorld\bin\Debug\net6.0\Rabtimq-HelloWorld.deps.json
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabtimq-HelloWorld\bin\Debug\net6.0\Rabtimq-HelloWorld.runtimeconfig.json
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabtimq-HelloWorld\bin\Debug\net6.0\Rabtimq-HelloWorld.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabtimq-HelloWorld\bin\Debug\net6.0\Rabtimq-HelloWorld.pdb
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabtimq-HelloWorld\bin\Debug\net6.0\Bogus.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabtimq-HelloWorld\bin\Debug\net6.0\RabbitMQ.Client.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabtimq-HelloWorld\obj\Debug\net6.0\Rabtimq-HelloWorld.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabtimq-HelloWorld\obj\Debug\net6.0\Rabtimq-HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabtimq-HelloWorld\obj\Debug\net6.0\Rabtimq-HelloWorld.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabtimq-HelloWorld\obj\Debug\net6.0\Rabtimq-HelloWorld.AssemblyInfo.cs
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabtimq-HelloWorld\obj\Debug\net6.0\Rabtimq-HelloWorld.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabtimq-HelloWorld\obj\Debug\net6.0\Rabtimq-HelloWorld.csproj.CopyComplete
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabtimq-HelloWorld\obj\Debug\net6.0\Rabtimq-HelloWorld.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabtimq-HelloWorld\obj\Debug\net6.0\refint\Rabtimq-HelloWorld.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabtimq-HelloWorld\obj\Debug\net6.0\Rabtimq-HelloWorld.pdb
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabtimq-HelloWorld\obj\Debug\net6.0\Rabtimq-HelloWorld.genruntimeconfig.cache
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabtimq-HelloWorld\obj\Debug\net6.0\ref\Rabtimq-HelloWorld.dll

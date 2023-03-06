@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "t4Z7AoNZkDkHy4c3qJLhVbzDYdFpXev3fh70Ni4LZBDK/6Cik+Yeipzg9haCJWQIPpWURwxhIunuCDN8X2euJg==",
+  "success": true,
+  "projectFilePath": "F:\\Projetos ASP.NET\\RabbitMq-demo-simples\\src\\Rabtimq-HelloWorld\\Rabtimq-HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cesar\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

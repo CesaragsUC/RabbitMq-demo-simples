@@ -1,0 +1,120 @@
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\appsettings.Development.json
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\appsettings.json
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Rabbit.Subscription.Demo.exe
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Rabbit.Subscription.Demo.deps.json
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Rabbit.Subscription.Demo.runtimeconfig.json
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Rabbit.Subscription.Demo.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Rabbit.Subscription.Demo.pdb
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\RabbitMQ.Client.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\Rabbit.Subscription.Demo.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\Rabbit.Subscription.Demo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\Rabbit.Subscription.Demo.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\Rabbit.Subscription.Demo.AssemblyInfo.cs
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\Rabbit.Subscription.Demo.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\Rabbit.Subscription.Demo.MvcApplicationPartsAssemblyInfo.cs
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\Rabbit.Subscription.Demo.MvcApplicationPartsAssemblyInfo.cache
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\staticwebassets\msbuild.Rabbit.Subscription.Demo.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\staticwebassets\msbuild.build.Rabbit.Subscription.Demo.props
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Rabbit.Subscription.Demo.props
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Rabbit.Subscription.Demo.props
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\staticwebassets.build.json
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\staticwebassets.development.json
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\scopedcss\bundle\Rabbit.Subscription.Demo.styles.css
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\Rabbit.Subscription.Demo.csproj.CopyComplete
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\Rabbit.Subscription.Demo.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\refint\Rabbit.Subscription.Demo.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\Rabbit.Subscription.Demo.pdb
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\Rabbit.Subscription.Demo.genruntimeconfig.cache
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\ref\Rabbit.Subscription.Demo.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Rabbit.Subscription.Domain.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\RabbitAppContext.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Rabbit.Subscription.Domain.pdb
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\RabbitAppContext.pdb
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Bogus.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Rabbit.EventBus.Config.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Rabbit.EventBus.Config.pdb
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Polly.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Rabbit.EventBus.Infra.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Rabbit.EventBus.Infra.pdb
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\appsettings.Development.json
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\appsettings.json
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Rabbit.Subscription.Demo.exe
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Rabbit.Subscription.Demo.deps.json
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Rabbit.Subscription.Demo.runtimeconfig.json
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Rabbit.Subscription.Demo.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Rabbit.Subscription.Demo.pdb
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Bogus.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Polly.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\RabbitMQ.Client.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Rabbit.EventBus.Config.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Rabbit.EventBus.Infra.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Rabbit.Subscription.Domain.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\RabbitAppContext.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Rabbit.EventBus.Config.pdb
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Rabbit.EventBus.Infra.pdb
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\Rabbit.Subscription.Domain.pdb
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\bin\Debug\net6.0\RabbitAppContext.pdb
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\Rabbit.Subscription.Demo.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\Rabbit.Subscription.Demo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\Rabbit.Subscription.Demo.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\Rabbit.Subscription.Demo.AssemblyInfo.cs
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\Rabbit.Subscription.Demo.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\Rabbit.Subscription.Demo.MvcApplicationPartsAssemblyInfo.cs
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\Rabbit.Subscription.Demo.MvcApplicationPartsAssemblyInfo.cache
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\staticwebassets\msbuild.Rabbit.Subscription.Demo.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\staticwebassets\msbuild.build.Rabbit.Subscription.Demo.props
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Rabbit.Subscription.Demo.props
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Rabbit.Subscription.Demo.props
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\staticwebassets.build.json
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\staticwebassets.development.json
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\scopedcss\bundle\Rabbit.Subscription.Demo.styles.css
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\Rabbit.Subscription.Demo.csproj.CopyComplete
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\Rabbit.Subscription.Demo.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\refint\Rabbit.Subscription.Demo.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\Rabbit.Subscription.Demo.pdb
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\Rabbit.Subscription.Demo.genruntimeconfig.cache
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Subscription.Demo\obj\Debug\net6.0\ref\Rabbit.Subscription.Demo.dll

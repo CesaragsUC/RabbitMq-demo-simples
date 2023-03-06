@@ -1,0 +1,12 @@
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Infra\bin\Debug\net6.0\Rabbit.Subscription.Infra.deps.json
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Infra\bin\Debug\net6.0\Rabbit.Subscription.Infra.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Infra\bin\Debug\net6.0\Rabbit.Subscription.Infra.pdb
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Infra\obj\Debug\net6.0\Rabbit.Subscription.Infra.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Infra\obj\Debug\net6.0\Rabbit.Subscription.Infra.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Infra\obj\Debug\net6.0\Rabbit.Subscription.Infra.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Infra\obj\Debug\net6.0\Rabbit.Subscription.Infra.AssemblyInfo.cs
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Infra\obj\Debug\net6.0\Rabbit.Subscription.Infra.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Infra\obj\Debug\net6.0\Rabbit.Subscription.Infra.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Infra\obj\Debug\net6.0\refint\Rabbit.Subscription.Infra.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Infra\obj\Debug\net6.0\Rabbit.Subscription.Infra.pdb
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Subscription.Infra\obj\Debug\net6.0\ref\Rabbit.Subscription.Infra.dll

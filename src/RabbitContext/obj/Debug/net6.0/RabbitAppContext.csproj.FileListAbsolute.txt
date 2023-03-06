@@ -1,0 +1,30 @@
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\RabbitContext\bin\Debug\net6.0\RabbitAppContext.deps.json
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\RabbitContext\bin\Debug\net6.0\RabbitAppContext.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\RabbitContext\bin\Debug\net6.0\RabbitAppContext.pdb
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\RabbitContext\obj\Debug\net6.0\RabbitAppContext.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\RabbitContext\obj\Debug\net6.0\RabbitAppContext.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\RabbitContext\obj\Debug\net6.0\RabbitAppContext.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\RabbitContext\obj\Debug\net6.0\RabbitAppContext.AssemblyInfo.cs
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\RabbitContext\obj\Debug\net6.0\RabbitAppContext.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\RabbitContext\obj\Debug\net6.0\RabbitAppContext.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\RabbitContext\obj\Debug\net6.0\refint\RabbitAppContext.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\RabbitContext\obj\Debug\net6.0\RabbitAppContext.pdb
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\RabbitContext\obj\Debug\net6.0\ref\RabbitAppContext.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\RabbitContext\bin\Debug\net6.0\Rabbit.Subscription.Domain.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\RabbitContext\bin\Debug\net6.0\Rabbit.Subscription.Domain.pdb
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\RabbitContext\obj\Debug\net6.0\RabbitAppContext.csproj.CopyComplete
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\RabbitContext\bin\Debug\net6.0\RabbitAppContext.deps.json
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\RabbitContext\bin\Debug\net6.0\RabbitAppContext.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\RabbitContext\bin\Debug\net6.0\RabbitAppContext.pdb
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\RabbitContext\bin\Debug\net6.0\Rabbit.Subscription.Domain.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\RabbitContext\bin\Debug\net6.0\Rabbit.Subscription.Domain.pdb
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\RabbitContext\obj\Debug\net6.0\RabbitAppContext.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\RabbitContext\obj\Debug\net6.0\RabbitAppContext.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\RabbitContext\obj\Debug\net6.0\RabbitAppContext.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\RabbitContext\obj\Debug\net6.0\RabbitAppContext.AssemblyInfo.cs
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\RabbitContext\obj\Debug\net6.0\RabbitAppContext.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\RabbitContext\obj\Debug\net6.0\RabbitAppContext.csproj.CopyComplete
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\RabbitContext\obj\Debug\net6.0\RabbitAppContext.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\RabbitContext\obj\Debug\net6.0\refint\RabbitAppContext.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\RabbitContext\obj\Debug\net6.0\RabbitAppContext.pdb
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\RabbitContext\obj\Debug\net6.0\ref\RabbitAppContext.dll

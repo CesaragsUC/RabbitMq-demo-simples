@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WaHfqsPNp/gb5f0H1OIkvxz9l6hnaVjzaz71rQlbQwWxOIYoyWn1sEzS/6yXVBJAxRQP+Gd2f2Pv8l7yU0/6/g==",
+  "success": true,
+  "projectFilePath": "F:\\Projetos ASP.NET\\RabbitMq-demo-simples\\src\\Rabbit.EventBus.Infra\\Rabbit.EventBus.Infra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.3\\microsoft.extensions.logging.abstractions.6.0.3.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\polly\\7.2.3\\polly.7.2.3.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

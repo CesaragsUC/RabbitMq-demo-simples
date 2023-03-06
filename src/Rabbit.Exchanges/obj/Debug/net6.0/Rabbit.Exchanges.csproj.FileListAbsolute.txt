@@ -1,0 +1,106 @@
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\bin\Debug\net6.0\appsettings.Development.json
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\bin\Debug\net6.0\appsettings.json
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\bin\Debug\net6.0\Rabbit.Exchanges.exe
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\bin\Debug\net6.0\Rabbit.Exchanges.deps.json
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\bin\Debug\net6.0\Rabbit.Exchanges.runtimeconfig.json
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\bin\Debug\net6.0\Rabbit.Exchanges.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\bin\Debug\net6.0\Rabbit.Exchanges.pdb
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\bin\Debug\net6.0\Bogus.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\bin\Debug\net6.0\Humanizer.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\bin\Debug\net6.0\RabbitMQ.Client.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\bin\Debug\net6.0\RabbitAppContext.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\bin\Debug\net6.0\RabbitAppContext.pdb
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\obj\Debug\net6.0\Rabbit.Exchanges.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\obj\Debug\net6.0\Rabbit.Exchanges.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\obj\Debug\net6.0\Rabbit.Exchanges.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\obj\Debug\net6.0\Rabbit.Exchanges.AssemblyInfo.cs
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\obj\Debug\net6.0\Rabbit.Exchanges.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\obj\Debug\net6.0\Rabbit.Exchanges.MvcApplicationPartsAssemblyInfo.cs
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\obj\Debug\net6.0\Rabbit.Exchanges.MvcApplicationPartsAssemblyInfo.cache
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\obj\Debug\net6.0\staticwebassets\msbuild.Rabbit.Exchanges.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\obj\Debug\net6.0\staticwebassets\msbuild.build.Rabbit.Exchanges.props
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Rabbit.Exchanges.props
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Rabbit.Exchanges.props
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\obj\Debug\net6.0\staticwebassets.build.json
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\obj\Debug\net6.0\staticwebassets.development.json
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\obj\Debug\net6.0\scopedcss\bundle\Rabbit.Exchanges.styles.css
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\obj\Debug\net6.0\Rabbit.Exchanges.csproj.CopyComplete
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\obj\Debug\net6.0\Rabbit.Exchanges.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\obj\Debug\net6.0\refint\Rabbit.Exchanges.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\obj\Debug\net6.0\Rabbit.Exchanges.pdb
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\obj\Debug\net6.0\Rabbit.Exchanges.genruntimeconfig.cache
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\obj\Debug\net6.0\ref\Rabbit.Exchanges.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\bin\Debug\net6.0\AutoMapper.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\bin\Debug\net6.0\MediatR.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\bin\Debug\net6.0\MediatR.Contracts.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\bin\Debug\net6.0\Rabbit.Subscription.Domain.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.Exchanges\bin\Debug\net6.0\Rabbit.Subscription.Domain.pdb
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\bin\Debug\net6.0\appsettings.Development.json
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\bin\Debug\net6.0\appsettings.json
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\bin\Debug\net6.0\Rabbit.Exchanges.exe
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\bin\Debug\net6.0\Rabbit.Exchanges.deps.json
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\bin\Debug\net6.0\Rabbit.Exchanges.runtimeconfig.json
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\bin\Debug\net6.0\Rabbit.Exchanges.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\bin\Debug\net6.0\Rabbit.Exchanges.pdb
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\bin\Debug\net6.0\AutoMapper.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\bin\Debug\net6.0\Bogus.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\bin\Debug\net6.0\Humanizer.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\bin\Debug\net6.0\MediatR.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\bin\Debug\net6.0\MediatR.Contracts.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\bin\Debug\net6.0\RabbitMQ.Client.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\bin\Debug\net6.0\Rabbit.Subscription.Domain.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\bin\Debug\net6.0\RabbitAppContext.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\bin\Debug\net6.0\RabbitAppContext.pdb
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\bin\Debug\net6.0\Rabbit.Subscription.Domain.pdb
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\obj\Debug\net6.0\Rabbit.Exchanges.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\obj\Debug\net6.0\Rabbit.Exchanges.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\obj\Debug\net6.0\Rabbit.Exchanges.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\obj\Debug\net6.0\Rabbit.Exchanges.AssemblyInfo.cs
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\obj\Debug\net6.0\Rabbit.Exchanges.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\obj\Debug\net6.0\Rabbit.Exchanges.MvcApplicationPartsAssemblyInfo.cs
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\obj\Debug\net6.0\Rabbit.Exchanges.MvcApplicationPartsAssemblyInfo.cache
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\obj\Debug\net6.0\staticwebassets\msbuild.Rabbit.Exchanges.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\obj\Debug\net6.0\staticwebassets\msbuild.build.Rabbit.Exchanges.props
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Rabbit.Exchanges.props
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Rabbit.Exchanges.props
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\obj\Debug\net6.0\staticwebassets.build.json
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\obj\Debug\net6.0\staticwebassets.development.json
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\obj\Debug\net6.0\scopedcss\bundle\Rabbit.Exchanges.styles.css
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\obj\Debug\net6.0\Rabbit.Exchanges.csproj.CopyComplete
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\obj\Debug\net6.0\Rabbit.Exchanges.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\obj\Debug\net6.0\refint\Rabbit.Exchanges.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\obj\Debug\net6.0\Rabbit.Exchanges.pdb
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\obj\Debug\net6.0\Rabbit.Exchanges.genruntimeconfig.cache
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.Exchanges\obj\Debug\net6.0\ref\Rabbit.Exchanges.dll

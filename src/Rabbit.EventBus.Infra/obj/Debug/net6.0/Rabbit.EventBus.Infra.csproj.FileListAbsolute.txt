@@ -1,0 +1,30 @@
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.EventBus.Infra\bin\Debug\net6.0\Rabbit.EventBus.Infra.deps.json
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.EventBus.Infra\bin\Debug\net6.0\Rabbit.EventBus.Infra.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.EventBus.Infra\bin\Debug\net6.0\Rabbit.EventBus.Infra.pdb
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.EventBus.Infra\obj\Debug\net6.0\Rabbit.EventBus.Infra.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.EventBus.Infra\obj\Debug\net6.0\Rabbit.EventBus.Infra.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.EventBus.Infra\obj\Debug\net6.0\Rabbit.EventBus.Infra.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.EventBus.Infra\obj\Debug\net6.0\Rabbit.EventBus.Infra.AssemblyInfo.cs
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.EventBus.Infra\obj\Debug\net6.0\Rabbit.EventBus.Infra.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.EventBus.Infra\obj\Debug\net6.0\Rabbit.EventBus.Infra.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.EventBus.Infra\obj\Debug\net6.0\refint\Rabbit.EventBus.Infra.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.EventBus.Infra\obj\Debug\net6.0\Rabbit.EventBus.Infra.pdb
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.EventBus.Infra\obj\Debug\net6.0\ref\Rabbit.EventBus.Infra.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.EventBus.Infra\bin\Debug\net6.0\Rabbit.EventBus.Config.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.EventBus.Infra\bin\Debug\net6.0\Rabbit.EventBus.Config.pdb
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.EventBus.Infra\obj\Debug\net6.0\Rabbit.EventBus.Infra.csproj.CopyComplete
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.EventBus.Infra\bin\Debug\net6.0\Rabbit.EventBus.Infra.deps.json
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.EventBus.Infra\bin\Debug\net6.0\Rabbit.EventBus.Infra.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.EventBus.Infra\bin\Debug\net6.0\Rabbit.EventBus.Infra.pdb
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.EventBus.Infra\bin\Debug\net6.0\Rabbit.EventBus.Config.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.EventBus.Infra\bin\Debug\net6.0\Rabbit.EventBus.Config.pdb
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.EventBus.Infra\obj\Debug\net6.0\Rabbit.EventBus.Infra.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.EventBus.Infra\obj\Debug\net6.0\Rabbit.EventBus.Infra.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.EventBus.Infra\obj\Debug\net6.0\Rabbit.EventBus.Infra.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.EventBus.Infra\obj\Debug\net6.0\Rabbit.EventBus.Infra.AssemblyInfo.cs
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.EventBus.Infra\obj\Debug\net6.0\Rabbit.EventBus.Infra.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.EventBus.Infra\obj\Debug\net6.0\Rabbit.EventBus.Infra.csproj.CopyComplete
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.EventBus.Infra\obj\Debug\net6.0\Rabbit.EventBus.Infra.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.EventBus.Infra\obj\Debug\net6.0\refint\Rabbit.EventBus.Infra.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.EventBus.Infra\obj\Debug\net6.0\Rabbit.EventBus.Infra.pdb
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.EventBus.Infra\obj\Debug\net6.0\ref\Rabbit.EventBus.Infra.dll

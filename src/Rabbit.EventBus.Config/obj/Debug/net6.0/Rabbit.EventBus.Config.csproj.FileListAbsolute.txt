@@ -1,0 +1,24 @@
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.EventBus.Config\bin\Debug\net6.0\Rabbit.EventBus.Config.deps.json
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.EventBus.Config\bin\Debug\net6.0\Rabbit.EventBus.Config.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.EventBus.Config\bin\Debug\net6.0\Rabbit.EventBus.Config.pdb
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.EventBus.Config\obj\Debug\net6.0\Rabbit.EventBus.Config.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.EventBus.Config\obj\Debug\net6.0\Rabbit.EventBus.Config.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.EventBus.Config\obj\Debug\net6.0\Rabbit.EventBus.Config.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.EventBus.Config\obj\Debug\net6.0\Rabbit.EventBus.Config.AssemblyInfo.cs
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.EventBus.Config\obj\Debug\net6.0\Rabbit.EventBus.Config.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.EventBus.Config\obj\Debug\net6.0\Rabbit.EventBus.Config.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.EventBus.Config\obj\Debug\net6.0\refint\Rabbit.EventBus.Config.dll
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.EventBus.Config\obj\Debug\net6.0\Rabbit.EventBus.Config.pdb
+F:\Projetos ASP.NET\Rabitmq Pratica\Rabtimq-Demos\src\Rabbit.EventBus.Config\obj\Debug\net6.0\ref\Rabbit.EventBus.Config.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.EventBus.Config\bin\Debug\net6.0\Rabbit.EventBus.Config.deps.json
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.EventBus.Config\bin\Debug\net6.0\Rabbit.EventBus.Config.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.EventBus.Config\bin\Debug\net6.0\Rabbit.EventBus.Config.pdb
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.EventBus.Config\obj\Debug\net6.0\Rabbit.EventBus.Config.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.EventBus.Config\obj\Debug\net6.0\Rabbit.EventBus.Config.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.EventBus.Config\obj\Debug\net6.0\Rabbit.EventBus.Config.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.EventBus.Config\obj\Debug\net6.0\Rabbit.EventBus.Config.AssemblyInfo.cs
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.EventBus.Config\obj\Debug\net6.0\Rabbit.EventBus.Config.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.EventBus.Config\obj\Debug\net6.0\Rabbit.EventBus.Config.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.EventBus.Config\obj\Debug\net6.0\refint\Rabbit.EventBus.Config.dll
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.EventBus.Config\obj\Debug\net6.0\Rabbit.EventBus.Config.pdb
+F:\Projetos ASP.NET\RabbitMq-demo-simples\src\Rabbit.EventBus.Config\obj\Debug\net6.0\ref\Rabbit.EventBus.Config.dll

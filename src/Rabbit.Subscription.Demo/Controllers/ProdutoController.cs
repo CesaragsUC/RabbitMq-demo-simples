@@ -42,8 +42,12 @@ namespace Rabbit.Subscription.Demo.Controllers
         [ProducesResponseType(statusCode: StatusCodes.Status404NotFound)]
         public async Task<IActionResult> Get(Guid id)
         {
-            var Produtos = await _produtoRepository.Get(id);
-            return Ok(Produtos);
+            var produto = await _produtoRepository.Get(id);
+
+            if (produto is null)
+                return BadRequest("Produto não encontrado");
+
+            return Ok(produto);
         }
 
 
@@ -57,14 +61,17 @@ namespace Rabbit.Subscription.Demo.Controllers
 
             try
             {
-                model.Id = Guid.NewGuid();
+                if(model.Preco <= 0 || model.Quantidade <= 0 || string.IsNullOrEmpty(model.Nome))
+                    return BadRequest("Produto Invalido: Verifique se digitou os dados corretamente.");
+
+               // model.Id = Guid.NewGuid();
                 model.CreatAt = DateTime.Now;
                 await _produtoRepository.Add(model);
 
                 var evento = new ProdutoCadastradoEvent(model.Id,model.Nome, model.Preco, model.Quantidade, model.CreatAt);
                 _eventBus.Publish(evento);
 
-                return Ok("Produto Cadastrado e Mensagem enviada.");
+                return Ok(model);
             }
             catch (Exception ex)
             {
@@ -111,7 +118,7 @@ namespace Rabbit.Subscription.Demo.Controllers
         }
 
 
-        [HttpPost]
+        [HttpPut]
         [Route("Update")]
         [ProducesResponseType(statusCode: StatusCodes.Status200OK)]
         [ProducesResponseType(statusCode: StatusCodes.Status400BadRequest)]
@@ -121,9 +128,18 @@ namespace Rabbit.Subscription.Demo.Controllers
 
             try
             {
+                if (model.Preco <= 0 || model.Quantidade <= 0 || string.IsNullOrEmpty(model.Nome))
+                    return BadRequest("Produto Invalido: Verifique se digitou os dados corretamente.");
+
                 var produto = await _produtoRepository.Get(model.Id);
 
                 if (produto is null) return BadRequest("Produto não encontrado");
+
+                if(model.Id == Guid.Empty)
+                    produto.Id = Guid.NewGuid();
+                else
+                    produto.Id = model.Id;
+
 
                 produto.Nome = model.Nome;
                 produto.Quantidade = model.Quantidade;
@@ -145,7 +161,7 @@ namespace Rabbit.Subscription.Demo.Controllers
             return Ok(new ResponseMessage("Produtos atualizado com sucesso."));
         }
 
-        [HttpPost]
+        [HttpDelete]
         [Route("Delete/{id}")]
         [ProducesResponseType(statusCode: StatusCodes.Status200OK)]
         [ProducesResponseType(statusCode: StatusCodes.Status400BadRequest)]

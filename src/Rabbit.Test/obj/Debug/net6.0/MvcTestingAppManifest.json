@@ -1,0 +1,7 @@
+{
+  "Rabbit.EventBus.Config, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\Projetos ASP.NET\\RabbitMq-demo-simples\\src\\Rabbit.EventBus.Config",
+  "Rabbit.EventBus.Infra, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\Projetos ASP.NET\\RabbitMq-demo-simples\\src\\Rabbit.EventBus.Infra",
+  "Rabbit.Subscription.Demo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\Projetos ASP.NET\\RabbitMq-demo-simples\\src\\Rabbit.Subscription.Demo",
+  "Rabbit.Subscription.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\Projetos ASP.NET\\RabbitMq-demo-simples\\src\\Rabbit.Subscription.Domain",
+  "RabbitAppContext, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\Projetos ASP.NET\\RabbitMq-demo-simples\\src\\RabbitContext"
+}

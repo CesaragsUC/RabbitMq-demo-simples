@@ -2,6 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using Rabbit.EventBus.Config.Bus;
 using Rabbit.EventBus.Config.Eventos;
 using Rabbit.EventBus.Infra.Config;
+using Rabbit.Subscription.Demo;
 using Rabbit.Subscription.Demo.IntegrationEvents.EventHandlers;
 using Rabbit.Subscription.Demo.IntegrationEvents.Events;
 using Rabbit.Subscription.Interfaces;
@@ -26,6 +27,7 @@ builder.Services.AddDbContext<RabbitContext>(options =>
     options.EnableSensitiveDataLogging();
 });
 
+builder.Services.Configure<RabbitMQConfig>(builder.Configuration.GetSection("RabbitMQ"));
 
 var rabbitMQSection = builder.Configuration.GetSection("RabbitMQ");
 
@@ -66,4 +68,4 @@ app.MapControllers();
 
 app.Run();
 
-
+public partial class Program { }
